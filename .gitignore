@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Servidor TomCat ###
+apache-tomcat-9.0.53.zip
+apache-tomcat-9.0.53/*
